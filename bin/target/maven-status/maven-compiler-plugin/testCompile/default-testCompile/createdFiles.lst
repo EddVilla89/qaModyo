@@ -1,0 +1,6 @@
+com/modyo/testing/definitions/LoginDefinition.class
+com/modyo/testing/util/Constantes.class
+com/modyo/testing/ModyoTestCucumber.class
+com/modyo/testing/util/WebDriverManager.class
+com/modyo/testing/util/CucumberRunner.class
+com/modyo/testing/profile/LoginPage.class
