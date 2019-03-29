@@ -1,6 +1,6 @@
-/Users/Matias/Java/test/src/test/java/com/modyo/testing/ModyoTestCucumber.java
-/Users/Matias/Java/test/src/test/java/com/modyo/testing/util/Constantes.java
-/Users/Matias/Java/test/src/test/java/com/modyo/testing/util/CucumberRunner.java
-/Users/Matias/Java/test/src/test/java/com/modyo/testing/profile/LoginPage.java
-/Users/Matias/Java/test/src/test/java/com/modyo/testing/definitions/LoginDefinition.java
-/Users/Matias/Java/test/src/test/java/com/modyo/testing/util/WebDriverManager.java
+/Users/Eduardo/Documents/qaModyo/src/test/java/com/modyo/testing/util/WebDriverManager.java
+/Users/Eduardo/Documents/qaModyo/src/test/java/com/modyo/testing/ModyoTestCucumber.java
+/Users/Eduardo/Documents/qaModyo/src/test/java/com/modyo/testing/util/CucumberRunner.java
+/Users/Eduardo/Documents/qaModyo/src/test/java/com/modyo/testing/util/Constantes.java
+/Users/Eduardo/Documents/qaModyo/src/test/java/com/modyo/testing/definitions/LoginDefinition.java
+/Users/Eduardo/Documents/qaModyo/src/test/java/com/modyo/testing/profile/LoginPage.java
